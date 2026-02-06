@@ -1,0 +1,18 @@
+{
+  "name": "Validade Inteligente",
+  "short_name": "Validade.ai",
+  "description": "Gerencie a validade dos seus produtos de forma inteligente.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#16a34a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Validade Inteligente",
+  "description": "Gerenciador de validade de produtos com organização automática, notificações visuais e identificação de produtos via IA (Gemini).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
